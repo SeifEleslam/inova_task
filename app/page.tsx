@@ -1,5 +1,4 @@
 import { ExploreCoursesSec } from "@/src/home/expoloreCoursesSec";
-import Image from "next/image";
 
 export default function Home() {
   return (
